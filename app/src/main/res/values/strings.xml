@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">societies</string>
+    <string name="techbutton">Button</string>
+    <string name="nontechbutton">Button</string>
+    <string name="technical_societies">Technical Societies</string>
+    <string name="non_technical_societis">Non Technical Societis</string>
+</resources>
